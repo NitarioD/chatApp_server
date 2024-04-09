@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23258161.css",
+    "main.js": "/static/js/main.f7dfaaf5.js",
+    "static/js/453.84735f90.chunk.js": "/static/js/453.84735f90.chunk.js",
+    "static/media/Binance.png": "/static/media/Binance.f4348d25aab205058a2d.png",
+    "index.html": "/index.html",
+    "main.23258161.css.map": "/static/css/main.23258161.css.map",
+    "main.f7dfaaf5.js.map": "/static/js/main.f7dfaaf5.js.map",
+    "453.84735f90.chunk.js.map": "/static/js/453.84735f90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23258161.css",
+    "static/js/main.f7dfaaf5.js"
+  ]
+}
